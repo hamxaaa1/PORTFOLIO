@@ -41,7 +41,7 @@ function Projects() {
               title="Spend App"
               description="A modern MERN expense tracking application that helps users manage income and expenses, visualize spending with charts, categorize transactions, and monitor financial activity through a clean and responsive interface."
               ghLink="https://github.com/hamxaaa1/spend-app"
-              demoLink="YOUR_LOOM_VIDEO_LINK"
+              demoLink="https://www.loom.com/share/90be752cfc0944668aa670d0c0075a89"
             />
           </Col>
         </Row>
