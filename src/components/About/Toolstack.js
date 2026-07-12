@@ -12,29 +12,29 @@ function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode size={32} color="#007ACC" />
+        <SiVisualstudiocode size={22} color="#007ACC" />
         <div className="tech-icons-text">VS Code</div>
       </Col>
       
 
       <Col xs={4} md={2} className="tech-icons">
-        <SiGithub size={32} color="#FFFFFF" />
+        <SiGithub size={22} color="#FFFFFF" />
         <div className="tech-icons-text">GitHub</div>
       </Col>
 
 
       <Col xs={4} md={2} className="tech-icons">
-        <SiGooglechrome size={32} color="#4285F4" />
+        <SiGooglechrome size={22} color="#4285F4" />
         <div className="tech-icons-text">Google Chrome</div>
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel size={32} color="#FFFFFF" />
+        <SiVercel size={22} color="#FFFFFF" />
         <div className="tech-icons-text">Vercel</div>
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <SiRender size={32} color="#46E3B7" />
+        <SiRender size={22} color="#46E3B7" />
         <div className="tech-icons-text">Render</div>
       </Col>
 
